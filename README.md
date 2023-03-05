@@ -7,6 +7,6 @@
   <img src='https://img.shields.io/badge/-Python-green'><img>
   <img src='https://img.shields.io/badge/-JavaScript-orange'><img>
   <img src='https://img.shields.io/badge/-TypeScript-blue'><img> </blockquote> </p>
-<p>⚡ Fun fact: <q>Programmer is not computer repair man. But your granny does not know this.</q>
+<p>⚡ Fun fact: <q>Programmer is not computer repair man, but your granny does not know this.</q>
 </p>
 <img src='contributions.svg'> 
