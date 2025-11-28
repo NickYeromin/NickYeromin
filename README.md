@@ -15,6 +15,7 @@
     <img src='https://img.shields.io/badge/-TypeScript-blue'>
     <img src='https://img.shields.io/badge/-React-blue'>
     <img src='https://img.shields.io/badge/-NodeJS-orange'>
+    <img src='https://img.shields.io/badge/-NextJS-purple'>
     <img src='https://img.shields.io/badge/-WebSocket-orange'>
     <img src='https://img.shields.io/badge/-Bootstrap-gray'>
     <img src='https://img.shields.io/badge/-Tailwind-aqua'>
