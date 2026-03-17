@@ -21,6 +21,11 @@
     <img src='https://img.shields.io/badge/-Tailwind-aqua'>
     <img src='https://img.shields.io/badge/-Webpack-yellow'>
     <img src='https://img.shields.io/badge/-Vite-yellow'>
+    <img src='https://img.shields.io/badge/-WebSocket-blue'>
+    <img src='https://img.shields.io/badge/-Socket.IO-yellow'>
+    <img src='https://img.shields.io/badge/-Redux-blue'>
+
+    
     
   </p>
   
